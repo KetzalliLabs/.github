@@ -76,27 +76,6 @@ Ser la **referencia nacional** en plataformas de aprendizaje y traducción de LS
 
 ---
 
-## Estructura de repos/organización (sugerida)
-```
-ketzalli-labs/
-  README.md
-  apps/
-    mobile/          # Flutter/React Native
-    admin-web/       # React
-  services/
-    api/             # NestJS/FastAPI
-    worker/          # colas, jobs, notificaciones
-  packages/
-    ui/              # componentes compartidos
-    sdk/             # cliente TS/Flutter para API
-  infra/
-    terraform/       # IaC
-    k8s/             # despliegues
-  docs/
-    product/         # MRD/PRD, user stories
-    design/          # UX, flujos, accesibilidad
-    research/        # validación con comunidad LSM
-```
 ---
 
 ## Contribución
@@ -112,8 +91,3 @@ Esperamos un trato respetuoso, lenguaje inclusivo y colaboración empática con 
 
 ## Licencia
 Definir según estrategia (ej. **AGPL** para servicios + **CC BY-NC** para contenidos didácticos). Evitar licenciar videos sin autorización explícita.
-
-## Contacto
-- **Ketzalli Labs** — Tec de Monterrey  
-- Correo: contacto@ketzallilabs.mx (placeholder)  
-- Sitio: https://ketzallilabs.mx (placeholder)
